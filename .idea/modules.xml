@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/excel_to_word.iml" filepath="$PROJECT_DIR$/excel_to_word.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/excel_to_word_android.iml" filepath="$PROJECT_DIR$/android/excel_to_word_android.iml" />
+    </modules>
+  </component>
+</project>
